@@ -1,0 +1,15 @@
+<style> /* HIDE TITLE PAGE */
+    #DeltaPlaceHolderPageTitleInTitleArea {
+    display: none;
+    } </style>
+
+<style type="text/css"> /* HIDE SITE LOGO */
+#DeltaSiteLogo
+{
+display:none;
+}
+</style>
+
+<style type="text/css"> #DeltaPlaceHolderSearchArea { display: none; } 
+/* HIDE THE SEARCH BAR */
+</style>
